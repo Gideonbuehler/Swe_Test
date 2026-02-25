@@ -13,7 +13,7 @@ public class Block {
 
     //Getters and Setters
     public Course getCourse() {
-        return course;
+        return hgdjgh;
     } //Test comment
 
     public void setCourse(Course course) {
