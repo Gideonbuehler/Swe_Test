@@ -6,6 +6,7 @@ public class Block {
     private Course course;
     private LocalTime startTime;
     private LocalTime endTime;
+    private LocalTime enTime;
 
     //Getters and Setters
     public Course getCourse() {
