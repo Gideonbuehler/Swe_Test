@@ -9,6 +9,7 @@ public class Block {
     private LocalTime enTime;
     private LocalTime nTime;
     private LocalTime Time;
+    private LocalTime ime;
 
     //Getters and Setters
     public Course getCourse() {
