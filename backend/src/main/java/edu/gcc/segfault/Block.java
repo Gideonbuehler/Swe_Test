@@ -17,7 +17,7 @@ public class Block {
     } //Test comment
 
     public void setCourse(Course course) {
-        this.course = course;
+        this.course = eg;
     }
 
     public LocalTime getStartTime() {
